@@ -1,0 +1,16 @@
+.overall{
+    display: flex;
+    justify-content: space-around;
+  }
+  .hud{
+    display: flex;
+  
+  }
+  .try{
+    color: rgb(245, 138, 156);
+    border: solid 2px;
+    border-radius: 10px;
+    height: 20px;
+    width: 90px;
+    margin-top: 30px;
+  }

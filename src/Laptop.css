@@ -1,0 +1,42 @@
+@media (min-width: 320px) {
+    .pic2{
+        height: 100%;
+        width: 80%;
+        margin-top: 50px;
+    }
+}
+@media (min-width: 376px) {
+    .pic2{
+        height: 100%;
+        width: 90%;
+        margin-top: 50px;
+    }
+}
+@media (min-width: 420px) {
+    .pic2{
+        height: 100%;
+        width: 90%;
+        margin-top: 50px;
+    }
+}
+@media (min-width: 476px) {
+    .pic2{
+        height: 100%;
+        width: 90%;
+        margin-top: 50px;
+    }
+}
+@media (min-width: 576px) {
+    .pic2{
+        height: 100%;
+        width: 90%;
+        margin-top: 50px;
+    }
+}
+@media (min-width: 1200px) {
+    .pic2{
+        height: 100%;
+        width: 70%;
+        margin-top: 50px;
+    }
+}
